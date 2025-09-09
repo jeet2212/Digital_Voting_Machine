@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Digital Voting Machine"      # Project title
-  author:       "Tandale Karthik"      # Your name
+  author:       "Sarbojeet Bose"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A 4-bit digital voting machine that records votes for up to 4 candidates, counts them, shows the winner in one-hot form, and provides debug vote totals."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
